@@ -1,0 +1,19 @@
+PlaylistName: usman123
+1     Ae-Meri-Zohra-Jabeen                Manna-Dey                      Sad         Alternative-rock
+2                 Memories                 Maroon-5                      Sad         Alternative-rock
+3                 One-Love                    Shubh                      Sad         Alternative-rock
+EndPlaylist
+PlaylistName: rayyan
+1         Long-Time-No-See                      AUR                      Sad         Alternative-rock
+2                 Memories                 Maroon-5                      Sad         Alternative-rock
+3     Ae-Meri-Zohra-Jabeen                Manna-Dey                    Happy         Alternative-rock
+4                   Gumaan           Young-Stunners                    Angry         Alternative-rock
+EndPlaylist
+PlaylistName: ali
+1     Ae-Meri-Zohra-Jabeen                Manna-Dey                    Happy         Alternative-rock
+2     Ae-Meri-Zohra-Jabeen                Manna-Dey                    Happy         Alternative-rock
+3                   Dzanum                Teya-Dora                      Sad         Alternative-rock
+4                   Gumaan           Young-Stunners                    Angry         Alternative-rock
+5         Long-Time-No-See                      AUR                      Sad         Alternative-rock
+6                 Memories                 Maroon-5                      Sad         Alternative-rock
+EndPlaylist

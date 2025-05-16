@@ -1,0 +1,19 @@
+PlaylistName: rizwan
+1     Ae-Meri-Zohra-Jabeen                Manna-Dey                      Sad         Alternative-rock
+2         Long-Time-No-See                      AUR                      Sad         Alternative-rock
+3                 One-Love                    Shubh                      Sad         Alternative-rock
+4             Tu-Hai-Kahan                      AUR                      Sad         Alternative-rock
+5                 Memories                 Maroon-5                      Sad         Alternative-rock
+6                   Gumaan           Young-Stunners                    Angry         Alternative-rock
+EndPlaylist
+PlaylistName: waloo
+1     Ae-Meri-Zohra-Jabeen                Manna-Dey                      Sad         Alternative-rock
+2                   Dzanum                Teya-Dora                      Sad         Alternative-rock
+3                   Gumaan           Young-Stunners                      Sad         Alternative-rock
+4         Long-Time-No-See                      AUR                      Sad         Alternative-rock
+5                 Memories                 Maroon-5                      Sad         Alternative-rock
+6                 One-Love                    Shubh                      Sad         Alternative-rock
+EndPlaylist
+PlaylistName: babarazam
+1                   Dzanum                Teya-Dora                      Sad         Alternative-rock
+EndPlaylist
