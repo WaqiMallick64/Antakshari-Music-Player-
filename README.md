@@ -3,9 +3,9 @@
 Antaakshari is a C++ console-based music player designed as a Data Structures and Algorithms (DSA) project. It features intelligent playlist management, secure multi-user support, a stack-based song history, and customizable playback—all built using fundamental DSA concepts.
 
 ## 👥 Group Members
-- Muhammad Waqi Mallick (22k-4613)
-- Muhammad Usman (22k-4336)
-- Taha Wala Qadr (22k-4312)
+- Muhammad Waqi Mallick
+- Muhammad Usman
+- Taha Wala Qadr
 
 ---
 
@@ -88,12 +88,6 @@ You can also create new accounts from within the program.
 
 ---
 
-## 📸 Screenshots (Console Output)
-
-> *Note: Screenshots of login, main menu, song list, history, queue, playlist management, etc. can be added here in `.png` or `.gif` format.*
-
----
-
 ## 📄 License
 
 This project is part of an academic course and is for educational purposes only.
@@ -111,3 +105,4 @@ Pull requests are welcome! For major changes, please open an issue first to disc
 For questions or collaboration:
 - Muhammad Waqi Mallick: [LinkedIn: https://www.linkedin.com/in/muhammad-waqi-mallick-4b7b912a3/]
 - Muhammad Usman: [LinkedIn: https://www.linkedin.com/in/muhahmmad-usman-91973b2b0/]
+- Muhammad Usman: [LinkedIn: https://www.linkedin.com/in/taha-walaqadr-9652672b8/]
